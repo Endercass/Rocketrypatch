@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "rocketrypatch",
+    "name": "Rocketrypatch",
+    "description": "Patches to Advanced Rocketry for use in Midpack",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Endercass"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
