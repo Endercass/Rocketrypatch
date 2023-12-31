@@ -145,6 +145,9 @@ dependencies {
     compileOnly 'curse.maven:advancedrocketry-236542:4671856-deobf'
     runtimeOnly 'curse.maven:advancedrocketry-236542:4671856-deobf'
 
+    compileOnly 'curse.maven:libvulpes-236541:3801015-deobf'
+    runtimeOnly 'curse.maven:libvulpes-236541:3801015-deobf'
+
     // implementation fg.deobf("com.tterrag.registrate:Registrate:MC${mc_version}-${registrate_version}") // Adds registrate as a dependency
 
     // Examples using mod jars from ./libs

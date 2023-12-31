@@ -3,6 +3,6 @@
   "package": "me.endercass.midpack.rocketrypatch.mixins",
   "refmap": "rocketrypatch.refmap.json",
   "mixins": [
-    "TileStationAssemblerMixin"
+    "TileSatelliteBuilderMixin"
   ]
 }
